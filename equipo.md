@@ -2,5 +2,5 @@
 
 Lema: No Rompas Nada No Seas Nabo
 
-Contacto: equipo@ejemplo.con
+Contacto: equipo@ejemplo.com
 Version: 1.0
